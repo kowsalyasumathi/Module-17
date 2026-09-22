@@ -38,8 +38,8 @@ To write a Python program to demonstrate the **adjacency list representation** o
 
 
 ```python
-# Reg.No: 212223060014
-# Name: AKSHAYA SETTU
+# Reg.No: 212223060129
+# Name: KOWSALYA V
 
 class AdjNode:
 	def __init__(self, data):
