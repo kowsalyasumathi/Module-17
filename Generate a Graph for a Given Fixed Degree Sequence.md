@@ -20,8 +20,8 @@ To write a Python program to generate a graph for a given **fixed degree sequenc
 
 ## PYTHON PROGRAM
 ```python
-# Reg.No: 212223060014
-# Name: AKSHAYA SETTU
+# Reg.No: 212223060129
+# Name: KOWSALYA V
 
 def printMat(degseq, n):
 	mat = [[0] * n for i in range(n)]
